@@ -1,2 +1,3 @@
 Git is a distributed version control system.
-Git is free software. name liuyanan
+Git is free software. name liuyanan      
+Git has a mutable index called stage.
